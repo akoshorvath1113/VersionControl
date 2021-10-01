@@ -129,4 +129,7 @@
   <data name="Lastname" xml:space="preserve">
     <value>Vezetéknév</value>
   </data>
+  <data name="Write" xml:space="preserve">
+    <value>Fáljba írás</value>
+  </data>
 </root>
