@@ -16,6 +16,9 @@ namespace NegyedikHet_LKX2MO
     {
         List<Flat> Flats;
         RealEstateEntities1 context = new RealEstateEntities1();
+        excel.Application xlApp;
+        excel.Workbook xlWB; 
+        excel.Worksheet xlSheet;
         public Form1()
         {
             InitializeComponent();
