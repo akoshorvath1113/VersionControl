@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week5_LKX2MO", "week5_LKX2MO\week5_LKX2MO.csproj", "{28EC8BA3-DB4E-44CF-B0BB-3A54132A78E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28EC8BA3-DB4E-44CF-B0BB-3A54132A78E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28EC8BA3-DB4E-44CF-B0BB-3A54132A78E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28EC8BA3-DB4E-44CF-B0BB-3A54132A78E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28EC8BA3-DB4E-44CF-B0BB-3A54132A78E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F53A81DD-0CF4-47CA-B301-F0058F2E922E}
+	EndGlobalSection
+EndGlobal
